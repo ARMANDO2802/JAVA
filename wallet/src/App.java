@@ -35,6 +35,17 @@ public class App {
         //Operadores bit a bit
         // & es como un and en python pero lo hace bit a bit
         // ^ sirve para sacar la potencia o representa la compuerta sor y la xfor cuando se comparan dos expresiones lógicas.
+        // | hace algunas operaciones
+        
+        //Estructuras de control
+        if (respuesta) {
+            //Aquí va el bloque de código si se cumple
+        }
+        if (respuesta) {
+            //bloque de código si se cumple
+        } else if (respuesta) {
+            //bloque de código si no se cumple
+        }
         
     }
 }
